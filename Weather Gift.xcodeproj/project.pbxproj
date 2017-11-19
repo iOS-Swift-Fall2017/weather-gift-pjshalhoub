@@ -21,6 +21,7 @@
 		767999911F8EDA7400CA9491 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7679998F1F8EDA7400CA9491 /* LaunchScreen.storyboard */; };
 		767999991F8EDD2200CA9491 /* DetailVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 767999981F8EDD2200CA9491 /* DetailVC.swift */; };
 		7679999B1F8EE2A300CA9491 /* ListVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7679999A1F8EE2A300CA9491 /* ListVC.swift */; };
+		76AE40721FC2347500BD11A9 /* AboutVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76AE40711FC2347500BD11A9 /* AboutVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -41,6 +42,7 @@
 		767999921F8EDA7400CA9491 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		767999981F8EDD2200CA9491 /* DetailVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailVC.swift; sourceTree = "<group>"; };
 		7679999A1F8EE2A300CA9491 /* ListVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListVC.swift; sourceTree = "<group>"; };
+		76AE40711FC2347500BD11A9 /* AboutVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutVC.swift; sourceTree = "<group>"; };
 		84A139E18227444106D47894 /* Pods_Weather_Gift.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Weather_Gift.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -97,6 +99,7 @@
 				767999861F8EDA7400CA9491 /* AppDelegate.swift */,
 				764C8A751FAD5CE800B4AB98 /* WeatherLocation.swift */,
 				762F0A681F9A854A00EA4EE3 /* WeatherDetail.swift */,
+				76AE40711FC2347500BD11A9 /* AboutVC.swift */,
 				762F0A421F8EE4BC00EA4EE3 /* PageVC.swift */,
 				7679999A1F8EE2A300CA9491 /* ListVC.swift */,
 				767999981F8EDD2200CA9491 /* DetailVC.swift */,
@@ -255,6 +258,7 @@
 				764C8A721FACF40300B4AB98 /* TimeInterval+format.swift in Sources */,
 				767999991F8EDD2200CA9491 /* DetailVC.swift in Sources */,
 				762F0A671F9A831800EA4EE3 /* Constants.swift in Sources */,
+				76AE40721FC2347500BD11A9 /* AboutVC.swift in Sources */,
 				762F0A691F9A854A00EA4EE3 /* WeatherDetail.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

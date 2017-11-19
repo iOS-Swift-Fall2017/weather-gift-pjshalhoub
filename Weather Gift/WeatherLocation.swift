@@ -8,7 +8,8 @@
 
 import Foundation
 
-class WeatherLocation: Codable {
+class WeatherLocation: Codable
+{
     var name: String
     var coordinates: String
     init(name: String, coordinates: String) {
